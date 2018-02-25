@@ -9,9 +9,12 @@ You [might need to](https://github.com/ipython-contrib/jupyter_contrib_nbextensi
 
 After successful installation, a new menu should appear in jupyter http://localhost:8888/tree <br>
 Currently in use: 
+* Autopep8
 * Collapsible Headings
-* Printview
 * Hide input all
+* Printview
+* Table of Contents (2)
+* table_beautifier
 
 ## Optics:
 Contents of folder css to be placed under:
