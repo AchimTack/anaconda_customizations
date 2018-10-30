@@ -17,5 +17,8 @@ Currently in use:
 * table_beautifier
 
 ## Optics:
+Use following command first:
+```jupyter notebook --generate-config```
+
 Contents of folder css to be placed under:
 ```C:\Users\USER\.jupyter\custom```
